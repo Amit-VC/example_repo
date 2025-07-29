@@ -7,3 +7,5 @@ Testing Authentication service - 3
 Testing Authentication service - 4
 
 Testing Authentication service - 5 by using the command "git push -u origin main" on GitBash.
+
+Testing Authentication service - 6 verifying to see if it still asks to authenticate while pushing using GitBash.
